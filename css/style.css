@@ -1,0 +1,45 @@
+body {
+    background-color: brown;
+}
+
+header {
+    text-align: center;
+    color: black;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.main {
+    display: flex;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.foto img {
+    width: 500px;
+
+}
+
+.item {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    background-color: white;
+}
+
+.teks {
+    padding-left: 15px;
+}
+
+button {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
